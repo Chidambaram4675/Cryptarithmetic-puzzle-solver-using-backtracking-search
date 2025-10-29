@@ -1,0 +1,5 @@
+{
+  "name": "Cryptarithmetic Puzzle Solver",
+  "description": "An intelligent web application that uses a backtracking algorithm to solve cryptarithmetic puzzles. It features Gemini integration to generate new puzzles and provide step-by-step explanations of solutions.",
+  "requestFramePermissions": []
+}
